@@ -22,7 +22,8 @@ h1 {
 .wrapper {
     height: 100%;
     width: 100%;
-    background-color: #BBB;
+    color: #ffffff;
+    background: #8b45cc url("https://www.solent.ac.uk/courses/undergraduate/popular-music-performance-top-up-ba/years/2016/assets/popular-music-performance-top-up-Cropped-1920x830.jpg");
 }
 
 .welcome-screen {
